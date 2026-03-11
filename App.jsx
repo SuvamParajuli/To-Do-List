@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import profilePic from "./assets/profile.png";
+import profilePic from "./assets/profile.jpg";
 
 function App() {
   const [tasks, setTasks] = useState([]);
